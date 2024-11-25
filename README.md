@@ -5,3 +5,4 @@ Modern Design: Clean and visually appealing UI with site-specific icons.
 Wide Coverage: Includes popular platforms such as Google, Signal, and Telegram.
 Lightweight & Fast: Runs seamlessly in your browser without consuming extra resources.
 Perfect for anyone monitoring internet restrictions or troubleshooting connectivity issues. Stay informed and take control of your browsing experience!
+<img width="306" alt="Screenshot" src="https://github.com/user-attachments/assets/e1b15baa-189d-44c7-af48-e72b235acabf">
